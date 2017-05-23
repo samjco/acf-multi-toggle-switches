@@ -2,6 +2,7 @@
 Nice UI Toogle switch for ACF!
 
 Contributors: Samjco
+
 Donate Link: https://PayPal.Me/samjco
 Tags: advanced custom fields, acf, developer, checkbox, toggle, switch, UI
 Requires at least: 3.0.1
@@ -14,6 +15,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Nice UI Toggle TRUE/FALSE switch for ACF! 
 
 == Description == 
+
 Nice UI Toggle TRUE/FALSE switch "checkbox" for ACF!
 Change the color of toggle from acf_switcher_v4.php file
 
