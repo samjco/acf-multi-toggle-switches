@@ -16,7 +16,7 @@ class acf_field_switcher extends acf_field
 	{
 		// vars
 		$this->name = 'switcher';
-		$this->label = __("Switcher",'acf');
+		$this->label = __("Switcher (UI Toggle Switch)",'acf');
 		$this->category = __("Choice",'acf');
 		$this->defaults = array(
 			'layout'		=>	'vertical',
