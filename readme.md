@@ -1,6 +1,7 @@
 # ACF Switcher
-Nice UI Toogle switch for ACF!
-Download the other True/False version here: https://github.com/samjco/ACF-toggle-true-false-switcher-field
+Nice UI Toogle switch for ACF! (NOT FOR PRO, YET)
+
+Download the other "Single" True/False version here: https://github.com/samjco/ACF-toggle-true-false-switcher-field
 
 Contributors: Samjco
 
